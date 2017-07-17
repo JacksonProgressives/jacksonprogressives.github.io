@@ -1,0 +1,7 @@
+baseURL = "http://www.jacksonprogressives.us/"
+languageCode = "en-us"
+title = "Jackson Progressives"
+publishDir = "docs"
+
+[Params]
+	Author = "Ali Nabavi"
