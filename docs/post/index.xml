@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jackson Progressives</title>
-    <link>http://www.jacksonprogressives.us/</link>
-    <description>Recent content on Jackson Progressives</description>
+    <title>Posts on Jackson Progressives</title>
+    <link>http://www.jacksonprogressives.us/post/</link>
+    <description>Recent content in Posts on Jackson Progressives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jul 2017 10:24:42 -0500</lastBuildDate>
     
-	<atom:link href="http://www.jacksonprogressives.us/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jacksonprogressives.us/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
