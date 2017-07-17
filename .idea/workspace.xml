@@ -1,226 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2b12fc5-a57f-4891-a4cb-129cd5b47374" name="Default" comment="- Next set of changes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/logo-old.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/logo-small-old.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jacksonprogressives.us.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="d2b12fc5-a57f-4891-a4cb-129cd5b47374" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/images/default.jpg" afterPath="$PROJECT_DIR$/docs/images/default.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/apple-touch-icon.png" afterPath="$PROJECT_DIR$/docs/img/apple-touch-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/banner.jpg" afterPath="$PROJECT_DIR$/docs/img/banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/banner2.jpg" afterPath="$PROJECT_DIR$/docs/img/banner2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/banners/banner-1.jpg" afterPath="$PROJECT_DIR$/docs/img/banners/banner-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/banners/banner-2.jpg" afterPath="$PROJECT_DIR$/docs/img/banners/banner-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/banners/banner-3.jpg" afterPath="$PROJECT_DIR$/docs/img/banners/banner-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/banners/banner-4.jpg" afterPath="$PROJECT_DIR$/docs/img/banners/banner-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/banners/banner-5.jpg" afterPath="$PROJECT_DIR$/docs/img/banners/banner-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/basketsquare.jpg" afterPath="$PROJECT_DIR$/docs/img/basketsquare.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog-avatar.jpg" afterPath="$PROJECT_DIR$/docs/img/blog-avatar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog-avatar2.jpg" afterPath="$PROJECT_DIR$/docs/img/blog-avatar2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog-medium.jpg" afterPath="$PROJECT_DIR$/docs/img/blog-medium.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog-recent-2.jpg" afterPath="$PROJECT_DIR$/docs/img/blog-recent-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog-recent-3.jpg" afterPath="$PROJECT_DIR$/docs/img/blog-recent-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog-recent.jpg" afterPath="$PROJECT_DIR$/docs/img/blog-recent.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog.jpg" afterPath="$PROJECT_DIR$/docs/img/blog.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/blog2.jpg" afterPath="$PROJECT_DIR$/docs/img/blog2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/carousel/template-easy-code.png" afterPath="$PROJECT_DIR$/docs/img/carousel/template-easy-code.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/carousel/template-easy-customize-less.png" afterPath="$PROJECT_DIR$/docs/img/carousel/template-easy-customize-less.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/carousel/template-easy-customize.png" afterPath="$PROJECT_DIR$/docs/img/carousel/template-easy-customize.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/carousel/template-homepage.png" afterPath="$PROJECT_DIR$/docs/img/carousel/template-homepage.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/carousel/template-mac.png" afterPath="$PROJECT_DIR$/docs/img/carousel/template-mac.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/carousel/template-tablets-2.png" afterPath="$PROJECT_DIR$/docs/img/carousel/template-tablets-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/carousel/template-tablets.png" afterPath="$PROJECT_DIR$/docs/img/carousel/template-tablets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/clients/customer-1.png" afterPath="$PROJECT_DIR$/docs/img/clients/customer-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/clients/customer-2.png" afterPath="$PROJECT_DIR$/docs/img/clients/customer-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/clients/customer-3.png" afterPath="$PROJECT_DIR$/docs/img/clients/customer-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/clients/customer-4.png" afterPath="$PROJECT_DIR$/docs/img/clients/customer-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/clients/customer-5.png" afterPath="$PROJECT_DIR$/docs/img/clients/customer-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/clients/customer-6.png" afterPath="$PROJECT_DIR$/docs/img/clients/customer-6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/detailbig1.jpg" afterPath="$PROJECT_DIR$/docs/img/detailbig1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/detailbig2.jpg" afterPath="$PROJECT_DIR$/docs/img/detailbig2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/detailbig3.jpg" afterPath="$PROJECT_DIR$/docs/img/detailbig3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/detailsquare.jpg" afterPath="$PROJECT_DIR$/docs/img/detailsquare.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/detailsquare2.jpg" afterPath="$PROJECT_DIR$/docs/img/detailsquare2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/detailsquare3.jpg" afterPath="$PROJECT_DIR$/docs/img/detailsquare3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/favicon.ico" afterPath="$PROJECT_DIR$/docs/img/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/fixed-background-1.jpg" afterPath="$PROJECT_DIR$/docs/img/fixed-background-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/fixed-background-2.jpg" afterPath="$PROJECT_DIR$/docs/img/fixed-background-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/grabbing.png" afterPath="$PROJECT_DIR$/docs/img/grabbing.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/home-try.jpg" afterPath="$PROJECT_DIR$/docs/img/home-try.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/home.jpg" afterPath="$PROJECT_DIR$/docs/img/home.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/homepage-slider.jpg" afterPath="$PROJECT_DIR$/docs/img/homepage-slider.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/logo-small.png" afterPath="$PROJECT_DIR$/docs/img/logo-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/logo.png" afterPath="$PROJECT_DIR$/docs/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/main-slider1.jpg" afterPath="$PROJECT_DIR$/docs/img/main-slider1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/main-slider2.jpg" afterPath="$PROJECT_DIR$/docs/img/main-slider2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/main-slider3.jpg" afterPath="$PROJECT_DIR$/docs/img/main-slider3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/main-slider4.jpg" afterPath="$PROJECT_DIR$/docs/img/main-slider4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/marker.png" afterPath="$PROJECT_DIR$/docs/img/marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/men.jpg" afterPath="$PROJECT_DIR$/docs/img/men.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/page-1.jpg" afterPath="$PROJECT_DIR$/docs/img/page-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/page-2.jpg" afterPath="$PROJECT_DIR$/docs/img/page-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/page-3.jpg" afterPath="$PROJECT_DIR$/docs/img/page-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/payment.png" afterPath="$PROJECT_DIR$/docs/img/payment.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/photogrid.jpg" afterPath="$PROJECT_DIR$/docs/img/photogrid.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/placeholder.png" afterPath="$PROJECT_DIR$/docs/img/placeholder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-1.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-2.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-3.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-4.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-5.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-6.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-7.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-8.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/portfolio-9.jpg" afterPath="$PROJECT_DIR$/docs/img/portfolio-9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/product1.jpg" afterPath="$PROJECT_DIR$/docs/img/product1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/product2.jpg" afterPath="$PROJECT_DIR$/docs/img/product2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/product3.jpg" afterPath="$PROJECT_DIR$/docs/img/product3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/product4.jpg" afterPath="$PROJECT_DIR$/docs/img/product4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/slide1.jpg" afterPath="$PROJECT_DIR$/docs/img/slide1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/slide2.jpg" afterPath="$PROJECT_DIR$/docs/img/slide2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/slide3.jpg" afterPath="$PROJECT_DIR$/docs/img/slide3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/slide4.jpg" afterPath="$PROJECT_DIR$/docs/img/slide4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/slide5.jpg" afterPath="$PROJECT_DIR$/docs/img/slide5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/slide6.jpg" afterPath="$PROJECT_DIR$/docs/img/slide6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/testimonials/person-1.jpg" afterPath="$PROJECT_DIR$/docs/img/testimonials/person-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/testimonials/person-2.jpg" afterPath="$PROJECT_DIR$/docs/img/testimonials/person-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/testimonials/person-3.png" afterPath="$PROJECT_DIR$/docs/img/testimonials/person-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/testimonials/person-4.jpg" afterPath="$PROJECT_DIR$/docs/img/testimonials/person-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/texture-bw.png" afterPath="$PROJECT_DIR$/docs/img/texture-bw.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/texture-turquoise.png" afterPath="$PROJECT_DIR$/docs/img/texture-turquoise.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/texture-violet.png" afterPath="$PROJECT_DIR$/docs/img/texture-violet.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/women.jpg" afterPath="$PROJECT_DIR$/docs/img/women.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/apple-touch-icon.png" afterPath="$PROJECT_DIR$/static/img/apple-touch-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/banners/banner-1.jpg" afterPath="$PROJECT_DIR$/static/img/banners/banner-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/banners/banner-2.jpg" afterPath="$PROJECT_DIR$/static/img/banners/banner-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/banners/banner-3.jpg" afterPath="$PROJECT_DIR$/static/img/banners/banner-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/banners/banner-4.jpg" afterPath="$PROJECT_DIR$/static/img/banners/banner-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/banners/banner-5.jpg" afterPath="$PROJECT_DIR$/static/img/banners/banner-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/carousel/template-easy-code.png" afterPath="$PROJECT_DIR$/static/img/carousel/template-easy-code.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/carousel/template-easy-customize-less.png" afterPath="$PROJECT_DIR$/static/img/carousel/template-easy-customize-less.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/carousel/template-easy-customize.png" afterPath="$PROJECT_DIR$/static/img/carousel/template-easy-customize.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/carousel/template-homepage.png" afterPath="$PROJECT_DIR$/static/img/carousel/template-homepage.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/carousel/template-mac.png" afterPath="$PROJECT_DIR$/static/img/carousel/template-mac.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/carousel/template-tablets-2.png" afterPath="$PROJECT_DIR$/static/img/carousel/template-tablets-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/carousel/template-tablets.png" afterPath="$PROJECT_DIR$/static/img/carousel/template-tablets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/customer-1.png" afterPath="$PROJECT_DIR$/static/img/clients/customer-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/customer-2.png" afterPath="$PROJECT_DIR$/static/img/clients/customer-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/customer-3.png" afterPath="$PROJECT_DIR$/static/img/clients/customer-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/customer-4.png" afterPath="$PROJECT_DIR$/static/img/clients/customer-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/customer-5.png" afterPath="$PROJECT_DIR$/static/img/clients/customer-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/customer-6.png" afterPath="$PROJECT_DIR$/static/img/clients/customer-6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/favicon.ico" afterPath="$PROJECT_DIR$/static/img/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/logo-small.png" afterPath="$PROJECT_DIR$/static/img/logo-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/logo.png" afterPath="$PROJECT_DIR$/static/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/testimonials/person-1.jpg" afterPath="$PROJECT_DIR$/static/img/testimonials/person-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/testimonials/person-2.jpg" afterPath="$PROJECT_DIR$/static/img/testimonials/person-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/testimonials/person-3.png" afterPath="$PROJECT_DIR$/static/img/testimonials/person-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/testimonials/person-4.jpg" afterPath="$PROJECT_DIR$/static/img/testimonials/person-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archetypes/default.md" afterPath="$PROJECT_DIR$/archetypes/default.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/creating-a-new-theme.md" afterPath="$PROJECT_DIR$/content/blog/creating-a-new-theme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/go-is-for-lovers.md" afterPath="$PROJECT_DIR$/content/blog/go-is-for-lovers.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/hugo-is-for-lovers.md" afterPath="$PROJECT_DIR$/content/blog/hugo-is-for-lovers.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/linked-post.md" afterPath="$PROJECT_DIR$/content/blog/linked-post.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/migrate-from-jekyll.md" afterPath="$PROJECT_DIR$/content/blog/migrate-from-jekyll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/contact.md" afterPath="$PROJECT_DIR$/content/contact.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/faq.md" afterPath="$PROJECT_DIR$/content/faq.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/carousel/customizable.yaml" afterPath="$PROJECT_DIR$/data/carousel/customizable.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/carousel/design.yaml" afterPath="$PROJECT_DIR$/data/carousel/design.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/carousel/features.yaml" afterPath="$PROJECT_DIR$/data/carousel/features.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/carousel/multipurpose.yaml" afterPath="$PROJECT_DIR$/data/carousel/multipurpose.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients/1.yaml" afterPath="$PROJECT_DIR$/data/clients/1.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients/2.yaml" afterPath="$PROJECT_DIR$/data/clients/2.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients/3.yaml" afterPath="$PROJECT_DIR$/data/clients/3.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients/4.yaml" afterPath="$PROJECT_DIR$/data/clients/4.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients/5.yaml" afterPath="$PROJECT_DIR$/data/clients/5.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients/6.yaml" afterPath="$PROJECT_DIR$/data/clients/6.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/features/consulting.yaml" afterPath="$PROJECT_DIR$/data/features/consulting.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/features/email.yaml" afterPath="$PROJECT_DIR$/data/features/email.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/features/print.yaml" afterPath="$PROJECT_DIR$/data/features/print.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/features/seo.yaml" afterPath="$PROJECT_DIR$/data/features/seo.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/features/uiux.yaml" afterPath="$PROJECT_DIR$/data/features/uiux.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/features/webdesign.yaml" afterPath="$PROJECT_DIR$/data/features/webdesign.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/testimonials/1.yaml" afterPath="$PROJECT_DIR$/data/testimonials/1.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/testimonials/2.yaml" afterPath="$PROJECT_DIR$/data/testimonials/2.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/testimonials/3.yaml" afterPath="$PROJECT_DIR$/data/testimonials/3.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/testimonials/4.yaml" afterPath="$PROJECT_DIR$/data/testimonials/4.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/testimonials/5.yaml" afterPath="$PROJECT_DIR$/data/testimonials/5.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/404.html" afterPath="$PROJECT_DIR$/docs/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/CNAME" afterPath="$PROJECT_DIR$/docs/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/06/24/creating-a-new-theme/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/06/24/creating-a-new-theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/08/03/hugo-is-for-lovers/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/08/03/hugo-is-for-lovers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/09/17/go-is-for-lovers/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/09/17/go-is-for-lovers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/10/02/linked-post/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/10/02/linked-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/10/10/migrate-from-jekyll/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/10/10/migrate-from-jekyll/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/index.html" afterPath="$PROJECT_DIR$/docs/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/index.xml" afterPath="$PROJECT_DIR$/docs/blog/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/page/1/index.html" afterPath="$PROJECT_DIR$/docs/blog/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/index.html" afterPath="$PROJECT_DIR$/docs/categories/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/index.xml" afterPath="$PROJECT_DIR$/docs/categories/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/lorem/index.html" afterPath="$PROJECT_DIR$/docs/categories/lorem/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/lorem/index.xml" afterPath="$PROJECT_DIR$/docs/categories/lorem/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/lorem/page/1/index.html" afterPath="$PROJECT_DIR$/docs/categories/lorem/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/programming/index.html" afterPath="$PROJECT_DIR$/docs/categories/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/programming/index.xml" afterPath="$PROJECT_DIR$/docs/categories/programming/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/programming/page/1/index.html" afterPath="$PROJECT_DIR$/docs/categories/programming/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/pseudo/index.html" afterPath="$PROJECT_DIR$/docs/categories/pseudo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/pseudo/index.xml" afterPath="$PROJECT_DIR$/docs/categories/pseudo/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/pseudo/page/1/index.html" afterPath="$PROJECT_DIR$/docs/categories/pseudo/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/starting/index.html" afterPath="$PROJECT_DIR$/docs/categories/starting/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/starting/index.xml" afterPath="$PROJECT_DIR$/docs/categories/starting/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/starting/page/1/index.html" afterPath="$PROJECT_DIR$/docs/categories/starting/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/contact/index.html" afterPath="$PROJECT_DIR$/docs/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/animate.css" afterPath="$PROJECT_DIR$/docs/css/animate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/custom.css" afterPath="$PROJECT_DIR$/docs/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/owl.carousel.css" afterPath="$PROJECT_DIR$/docs/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/owl.theme.css" afterPath="$PROJECT_DIR$/docs/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.blue.css" afterPath="$PROJECT_DIR$/docs/css/style.blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.default.css" afterPath="$PROJECT_DIR$/docs/css/style.default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.green.css" afterPath="$PROJECT_DIR$/docs/css/style.green.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.marsala.css" afterPath="$PROJECT_DIR$/docs/css/style.marsala.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.pink.css" afterPath="$PROJECT_DIR$/docs/css/style.pink.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.red.css" afterPath="$PROJECT_DIR$/docs/css/style.red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.turquoise.css" afterPath="$PROJECT_DIR$/docs/css/style.turquoise.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.violet.css" afterPath="$PROJECT_DIR$/docs/css/style.violet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/faq/index.html" afterPath="$PROJECT_DIR$/docs/faq/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.xml" afterPath="$PROJECT_DIR$/docs/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/js/front.js" afterPath="$PROJECT_DIR$/docs/js/front.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/js/gmaps.init.js" afterPath="$PROJECT_DIR$/docs/js/gmaps.init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/js/hpneo.gmaps.js" afterPath="$PROJECT_DIR$/docs/js/hpneo.gmaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/docs/js/owl.carousel.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/js/respond.min.js" afterPath="$PROJECT_DIR$/docs/js/respond.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/page/1/index.html" afterPath="$PROJECT_DIR$/docs/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/post/good-to-great/index.html" afterPath="$PROJECT_DIR$/docs/post/good-to-great/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/post/index.html" afterPath="$PROJECT_DIR$/docs/post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/post/index.xml" afterPath="$PROJECT_DIR$/docs/post/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/post/page/1/index.html" afterPath="$PROJECT_DIR$/docs/post/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sitemap.xml" afterPath="$PROJECT_DIR$/docs/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/go/index.html" afterPath="$PROJECT_DIR$/docs/tags/go/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/go/index.xml" afterPath="$PROJECT_DIR$/docs/tags/go/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/go/page/1/index.html" afterPath="$PROJECT_DIR$/docs/tags/go/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/golang/index.html" afterPath="$PROJECT_DIR$/docs/tags/golang/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/golang/index.xml" afterPath="$PROJECT_DIR$/docs/tags/golang/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/golang/page/1/index.html" afterPath="$PROJECT_DIR$/docs/tags/golang/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/hugo/index.html" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/hugo/index.xml" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/hugo/page/1/index.html" afterPath="$PROJECT_DIR$/docs/tags/hugo/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/index.html" afterPath="$PROJECT_DIR$/docs/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/index.xml" afterPath="$PROJECT_DIR$/docs/tags/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/ipsum/index.html" afterPath="$PROJECT_DIR$/docs/tags/ipsum/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/ipsum/index.xml" afterPath="$PROJECT_DIR$/docs/tags/ipsum/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/ipsum/page/1/index.html" afterPath="$PROJECT_DIR$/docs/tags/ipsum/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/programming/index.html" afterPath="$PROJECT_DIR$/docs/tags/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/programming/index.xml" afterPath="$PROJECT_DIR$/docs/tags/programming/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/programming/page/1/index.html" afterPath="$PROJECT_DIR$/docs/tags/programming/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/theme/index.html" afterPath="$PROJECT_DIR$/docs/tags/theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/theme/index.xml" afterPath="$PROJECT_DIR$/docs/tags/theme/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/theme/page/1/index.html" afterPath="$PROJECT_DIR$/docs/tags/theme/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/CNAME" afterPath="$PROJECT_DIR$/static/CNAME" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -577,12 +359,20 @@
       <option name="presentableId" value="Default" />
       <updated>1500322710832</updated>
       <workItem from="1500322712101" duration="382000" />
-      <workItem from="1500323113679" duration="1810000" />
+      <workItem from="1500323113679" duration="1877000" />
     </task>
+    <task id="LOCAL-00001" summary="- Next set of changes">
+      <created>1500325302666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500325302666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2192000" />
+    <option name="totallyTimeSpent" value="2259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -625,6 +415,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="- Next set of changes" />
     <option name="LAST_COMMIT_MESSAGE" value="- Next set of changes" />
   </component>
