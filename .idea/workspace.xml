@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b12fc5-a57f-4891-a4cb-129cd5b47374" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/logo-small.png" afterPath="$PROJECT_DIR$/docs/img/logo-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/img/logo.png" afterPath="$PROJECT_DIR$/docs/img/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/404.html" afterPath="$PROJECT_DIR$/docs/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/06/24/creating-a-new-theme/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/06/24/creating-a-new-theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/08/03/hugo-is-for-lovers/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/08/03/hugo-is-for-lovers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/09/17/go-is-for-lovers/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/09/17/go-is-for-lovers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/10/02/linked-post/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/10/02/linked-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2015/10/10/migrate-from-jekyll/index.html" afterPath="$PROJECT_DIR$/docs/blog/2015/10/10/migrate-from-jekyll/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/index.html" afterPath="$PROJECT_DIR$/docs/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/index.xml" afterPath="$PROJECT_DIR$/docs/blog/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/index.xml" afterPath="$PROJECT_DIR$/docs/categories/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/lorem/index.html" afterPath="$PROJECT_DIR$/docs/categories/lorem/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/lorem/index.xml" afterPath="$PROJECT_DIR$/docs/categories/lorem/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/programming/index.html" afterPath="$PROJECT_DIR$/docs/categories/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/programming/index.xml" afterPath="$PROJECT_DIR$/docs/categories/programming/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/pseudo/index.html" afterPath="$PROJECT_DIR$/docs/categories/pseudo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/pseudo/index.xml" afterPath="$PROJECT_DIR$/docs/categories/pseudo/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/starting/index.html" afterPath="$PROJECT_DIR$/docs/categories/starting/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/starting/index.xml" afterPath="$PROJECT_DIR$/docs/categories/starting/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/contact/index.html" afterPath="$PROJECT_DIR$/docs/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/faq/index.html" afterPath="$PROJECT_DIR$/docs/faq/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.xml" afterPath="$PROJECT_DIR$/docs/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/go/index.html" afterPath="$PROJECT_DIR$/docs/tags/go/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/go/index.xml" afterPath="$PROJECT_DIR$/docs/tags/go/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/golang/index.html" afterPath="$PROJECT_DIR$/docs/tags/golang/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/golang/index.xml" afterPath="$PROJECT_DIR$/docs/tags/golang/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/hugo/index.html" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/hugo/index.xml" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/index.xml" afterPath="$PROJECT_DIR$/docs/tags/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/ipsum/index.html" afterPath="$PROJECT_DIR$/docs/tags/ipsum/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/ipsum/index.xml" afterPath="$PROJECT_DIR$/docs/tags/ipsum/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/programming/index.html" afterPath="$PROJECT_DIR$/docs/tags/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/programming/index.xml" afterPath="$PROJECT_DIR$/docs/tags/programming/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/theme/index.html" afterPath="$PROJECT_DIR$/docs/tags/theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/theme/index.xml" afterPath="$PROJECT_DIR$/docs/tags/theme/index.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -398,7 +362,7 @@
       <option name="presentableId" value="Default" />
       <updated>1500322710832</updated>
       <workItem from="1500322712101" duration="382000" />
-      <workItem from="1500323113679" duration="2038000" />
+      <workItem from="1500323113679" duration="2049000" />
     </task>
     <task id="LOCAL-00001" summary="- Next set of changes">
       <created>1500325302666</created>
@@ -414,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500325318724</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- Next set of changes">
+      <created>1500325481429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500325481429</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2420000" />
+    <option name="totallyTimeSpent" value="2431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
