@@ -32,7 +32,7 @@ paginate = 10
 #    weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "FAQz"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
@@ -95,7 +95,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@jacksonprogressives.us"
 
-    about_us = "<h2>About Us</h2><p>Jackson Progressives was formed in 2017 on Meetup.com&nbsp;in order to serve as&nbsp;an umbrella group for anyone in the Jackson, MS, Central Mississippi area (or anywhere in Mississippi!) who is interested in making positive changes in our local, state, national, and global communities.</p>"
+    about_us = "<p>Jackson Progressives was formed in 2017 on Meetup.com&nbsp;in order to serve as&nbsp;an umbrella group for anyone in the Jackson, MS, Central Mississippi area (or anywhere in Mississippi!) who is interested in making positive changes in our local, state, national, and global communities.</p>"
     copyright = "Copyright (c) 2017, Jackson Progressives; all rights reserved."
 
     # Format dates with Go's time formatting
