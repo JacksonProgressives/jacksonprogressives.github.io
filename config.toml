@@ -32,7 +32,7 @@ paginate = 10
 #    weight = 2
 
 [[menu.main]]
-    name = "FAQz"
+    name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
@@ -135,7 +135,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = false
+    enable = true
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
