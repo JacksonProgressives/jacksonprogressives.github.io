@@ -3,6 +3,13 @@
 
         <div class="col-md-4 col-sm-6">
 
+            <h1>{{ .Site.Title | markdownify }}</h1>
+
+        </div>
+
+
+        <div class="col-md-4 col-sm-6">
+
             {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
             <h4>{{ i18n "recentPosts" }}</h4>
 
@@ -33,8 +40,6 @@
 
         {{ if isset .Site.Params "address" }}
         <div class="col-md-4 col-sm-6">
-
-            <h4>{{ i18n "contactTitle" }}</h4>
 
             {{ .Site.Params.address | markdownify }}
 
