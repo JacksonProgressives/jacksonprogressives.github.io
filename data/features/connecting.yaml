@@ -1,4 +1,19 @@
-weight: 4
+weight: 3
 name: "Connecting"
 icon: "fa fa-lightbulb-o"
-description: "Join our [meetup group](https://www.meetup.com/progressivejxn/) or sign up for [our mailing list](http://eepurl.com/cL-sYn) to get announcements about upcoming meetups, salons, and other events."
+description: "
+The best way to connect with us is to join our
+[Meetup group](https://www.meetup.com/progressivejxn/) or sign up for
+[our mailing list](http://eepurl.com/cL-sYn) to get announcements about upcoming
+[salons](https://en.wikipedia.org/wiki/Salon_(gathering)) and other events.
+
+
+You may also follow our [Facebook page](https://www.facebook.com/progressivejxn)
+and [Twitter feed](http://twitter.com/progressivejxn) for event info.
+
+
+We also have private online communities for those of you who wish to participate
+in thoughtful online discourse; to share and learn; to help each other grow; and
+ to transform this group into
+an effective and nurturing progressive community.
+"
