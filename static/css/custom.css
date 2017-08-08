@@ -7,3 +7,16 @@
 .box-simple p  {
   text-align: left;
 }
+
+a {
+  color: darkviolet;
+}
+
+.box-simple .icon {
+  color: purple;
+  border-color: purple;
+}
+
+#top, #footer {
+  background: #301934;
+}

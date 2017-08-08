@@ -108,8 +108,8 @@ paginate = 10
 
     logo = "img/logo.png"
     address ="""<p>
-        <br>PO Box 4342
-        <br>Brandon, MS  39047-4342
+        <br>P.O. Box 4342
+        <br>Brandon, MS &nbsp;39047-4342
         <br>
         <strong>USA</strong>
       </p>"""
