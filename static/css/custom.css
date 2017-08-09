@@ -9,14 +9,39 @@
 }
 
 a {
-  color: darkviolet;
+  color: #FF001E;
 }
 
 .box-simple .icon {
-  color: purple;
-  border-color: purple;
+  color: #210095;
+  border-color: #210095;
 }
 
 #top, #footer {
-  background: #301934;
+  background-color: #00276F;
+}
+
+.navbar {
+  min-height: 80px;
+}
+
+#copyright {
+  background-color: #00276F;
+  color: #FF7081;
+}
+
+.box-simple h3 {
+  color: #210095;
+}
+
+.box-simple p {
+  color: #00276F;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #210095;
+}
+
+#top .social a {
+  color: #9D81FF;
 }
