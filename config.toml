@@ -1,6 +1,6 @@
 baseURL = "http://github.jacksonprogressives.us/"
 languageCode = "en-us"
-title = "Jackson Progressives"
+title = "Jackson<br>Progressive<br>Salon"
 publishDir = "docs"
 
 
@@ -76,8 +76,14 @@ paginate = 10
 
     # By Ali
     # Dyanmic fonts per https://stoned.io/web-development/hugo/How-To-Dynamically-Use-Google-Fonts-In-A-Hugo-Website
-    fontbody = "Raleway"
-    fontheading = "Corben"
+    #fontbody = "Raleway"
+    #fontheading = "Corben"
+    # <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Alice|Amatic+SC|Cinzel|Corben|Kameron|Marcellus+SC|
+    # Montserrat+Subrayada|Niconne|Prata|Rokkitt|Sorts+Mill+Goudy|Taviraj" rel="stylesheet">
+    fontheading = "Lato"
+    fontbody = "Sorts Mill Goudy"
+    #fontheading = "Goudy Bookletter 1911"
+    #fontbody = "Goudy Bookletter 1911"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -101,12 +107,12 @@ paginate = 10
     email = "info@jacksonprogressives.us"
 
     about_us = "<p>Jackson Progressives was formed in 2017 on Meetup.com in order to serve as an umbrella group for anyone in the Jackson, MS, Central Mississippi area (or anywhere in Mississippi!) who is interested in making positive changes in our local, state, national, and global communities.</p>"
-    copyright = "Copyright (c) 2017, Jackson Progressives;  all rights reserved."
+    copyright = "Copyright (c) 2017, Jackson Progressive Salon;  all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
+    logo = "img/jacksonProgressiveSalon-logo-textxcf.png"
     address ="""<p>
         <br>P.O. Box 4342
         <br>Brandon, MS &nbsp;39047-4342
