@@ -45,3 +45,7 @@ a {
 #top .social a {
   color: #9D81FF;
 }
+
+.navbar-brand>img {
+  max-height: 67px;
+}

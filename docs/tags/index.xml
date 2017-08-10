@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jackson Progressives</title>
+    <title>Tags on Jackson&lt;br&gt;Progressive&lt;br&gt;Salon</title>
     <link>http://github.jacksonprogressives.us/tags/</link>
-    <description>Recent content in Tags on Jackson Progressives</description>
+    <description>Recent content in Tags on Jackson&lt;br&gt;Progressive&lt;br&gt;Salon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017, Jackson Progressives;  all rights reserved.</copyright>
+    <copyright>Copyright (c) 2017, Jackson Progressive Salon;  all rights reserved.</copyright>
     <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="http://github.jacksonprogressives.us/tags/index.xml" rel="self" type="application/rss+xml" />
