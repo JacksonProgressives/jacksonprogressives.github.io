@@ -22,7 +22,7 @@ a {
 }
 
 .navbar {
-  min-height: 80px;
+  height: inherit;
 }
 
 #copyright {
@@ -47,5 +47,13 @@ a {
 }
 
 .navbar-brand>img {
-  max-height: 67px;
+  height: 100px;
+}
+
+a.navbar-brand.home {
+  height: inherit;
+}
+
+section.bar.background-white {
+  padding: 10px 0px;
 }
