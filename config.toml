@@ -152,7 +152,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.actblue]
-    enable = true
+    enable = false
 
 [params.testimonials]
     enable = false
