@@ -1,4 +1,4 @@
-baseURL = "http://github.jacksonprogressives.us/"
+baseURL = "http://www.jacksonprogressives.us/"
 languageCode = "en-us"
 title = "Jackson<br>Progressive<br>Salon"
 publishDir = "docs"
