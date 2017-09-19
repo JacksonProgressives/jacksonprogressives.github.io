@@ -15,10 +15,16 @@ a {
 .box-simple .icon {
   color: #210095;
   border-color: #210095;
+    border: none;
 }
 
 #top, #footer {
   background-color: #00276F;
+    font-family: "Sorts Mill Goudy";
+}
+
+#footer, #copyright {
+    padding: 10px;
 }
 
 .navbar {
@@ -56,4 +62,11 @@ a.navbar-brand.home {
 
 section.bar.background-white {
   padding: 10px 0px;
+}
+
+#navbar {
+    /*background-image: url("./img/Himno_Nacional_Argentino.jpg");*/
+    background-image: url("/img/Himno_Nacional_Argentino.jpg");
+    height: 400px;
+
 }

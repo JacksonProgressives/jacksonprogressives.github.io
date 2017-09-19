@@ -31,11 +31,11 @@ paginate = 10
 #    url  = "/blog/"
 #    weight = 2
 
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
+#[[menu.main]]
+#    name = "FAQ"
+#    identifier = "faq"
+#    url  = "/faq/"
+#    weight = 3
 
 #[[menu.main]]
 #    name = "Contact"
@@ -81,7 +81,7 @@ paginate = 10
     # <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Alice|Amatic+SC|Cinzel|Corben|Kameron|Marcellus+SC|
     # Montserrat+Subrayada|Niconne|Prata|Rokkitt|Sorts+Mill+Goudy|Taviraj" rel="stylesheet">
     fontheading = "Lato"
-    fontbody = "Sorts Mill Goudy"
+    fontbody = "Lato"
     #fontheading = "Goudy Bookletter 1911"
     #fontbody = "Goudy Bookletter 1911"
 
@@ -137,7 +137,7 @@ paginate = 10
 [params.widgets]
     categories = true
     tags = true
-    search = true
+    search = false
 
 [params.carousel]
     enable = false
