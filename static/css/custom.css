@@ -54,6 +54,7 @@ a {
 
 .navbar-brand>img {
   height: 100px;
+
 }
 
 a.navbar-brand.home {
@@ -66,7 +67,6 @@ section.bar.background-white {
 
 #navbar {
     /*background-image: url("./img/Himno_Nacional_Argentino.jpg");*/
-    background-image: url("/img/Himno_Nacional_Argentino.jpg");
-    height: 400px;
-
+    /*background-image: url("/img/Himno_Nacional_Argentino.jpg");*/
 }
+
