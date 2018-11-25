@@ -29,6 +29,7 @@ a {
 
 .navbar {
   height: inherit;
+  min-height: 450px;
 }
 
 #copyright {
@@ -67,6 +68,6 @@ section.bar.background-white {
 
 #navbar {
     /*background-image: url("./img/Himno_Nacional_Argentino.jpg");*/
-    /*background-image: url("/img/Himno_Nacional_Argentino.jpg");*/
+    background-image: url("/img/Himno_Nacional_Argentino.jpg");
 }
 
