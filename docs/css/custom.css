@@ -15,14 +15,21 @@ a {
 .box-simple .icon {
   color: #210095;
   border-color: #210095;
+    border: none;
 }
 
 #top, #footer {
   background-color: #00276F;
+    font-family: "Sorts Mill Goudy";
+}
+
+#footer, #copyright {
+    padding: 10px;
 }
 
 .navbar {
-    height: inherit;
+  height: inherit;
+  min-height: 450px;
 }
 
 #copyright {
@@ -47,13 +54,20 @@ a {
 }
 
 .navbar-brand>img {
-    height: 100px;
+  height: 100px;
+
 }
 
 a.navbar-brand.home {
-    height: inherit;
+  height: inherit;
 }
 
 section.bar.background-white {
-    padding: 10px 0px;
+  padding: 10px 0px;
 }
+
+#navbar {
+    /*background-image: url("./img/Himno_Nacional_Argentino.jpg");*/
+    background-image: url("/img/Himno_Nacional_Argentino.jpg");
+}
+

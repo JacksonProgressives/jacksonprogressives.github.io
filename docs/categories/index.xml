@@ -2,48 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jackson&lt;br&gt;Progressive&lt;br&gt;Salon</title>
-      <link>http://www.jacksonprogressives.us/categories/</link>
+    <link>http://www.jacksonprogressives.us/categories/</link>
     <description>Recent content in Categories on Jackson&lt;br&gt;Progressive&lt;br&gt;Salon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017, Jackson Progressive Salon;  all rights reserved.</copyright>
-
-      <atom:link href="http://www.jacksonprogressives.us/categories/index.xml" rel="self" type="application/rss+xml"/>
+    
+	<atom:link href="http://www.jacksonprogressives.us/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lorem</title>
-        <link>http://www.jacksonprogressives.us/categories/lorem/</link>
+      <link>http://www.jacksonprogressives.us/categories/lorem/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-
-        <guid>http://www.jacksonprogressives.us/categories/lorem/</guid>
+      
+      <guid>http://www.jacksonprogressives.us/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-        <link>http://www.jacksonprogressives.us/categories/programming/</link>
+      <link>http://www.jacksonprogressives.us/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-
-        <guid>http://www.jacksonprogressives.us/categories/programming/</guid>
+      
+      <guid>http://www.jacksonprogressives.us/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudo</title>
-        <link>http://www.jacksonprogressives.us/categories/pseudo/</link>
+      <link>http://www.jacksonprogressives.us/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-
-        <guid>http://www.jacksonprogressives.us/categories/pseudo/</guid>
+      
+      <guid>http://www.jacksonprogressives.us/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-        <link>http://www.jacksonprogressives.us/categories/starting/</link>
+      <link>http://www.jacksonprogressives.us/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-
-        <guid>http://www.jacksonprogressives.us/categories/starting/</guid>
+      
+      <guid>http://www.jacksonprogressives.us/categories/starting/</guid>
       <description></description>
     </item>
     
